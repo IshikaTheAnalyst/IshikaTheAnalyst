@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshikaTheAnalyst
-- 👩‍💻 I work for eClerx
+- 👩‍💻 I work for Priority
 - 🌱 I'm a Data Analyst
 - 👀 I’m interested in Data
 - 🤖 I’m currently working on projects related to Python, SQL, Excel, and Data Vsiualization Using POWER BI.
