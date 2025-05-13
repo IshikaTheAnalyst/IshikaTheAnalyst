@@ -1,4 +1,4 @@
-👋 Hi, I'm @IshikaTheAnalyst
+👋 Hi, I'm @IshikaTheAnalyst <br>
 👩‍💻 Currently working at Priority as a Data Analyst<br>
 📊 Passionate about turning data into actionable insights <br>
 🛠️ Skilled in Python, SQL, Excel, EDA, Statistical Analysis, and Data Visualization using Power BI <br>
