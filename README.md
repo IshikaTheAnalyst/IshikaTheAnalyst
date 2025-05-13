@@ -2,7 +2,7 @@
 - 👩‍💻 I work for Priority
 - 🌱 I'm a Data Analyst
 - 👀 I’m interested in Data
-- 🤖 I’m currently working on projects related to Python, SQL, Excel, and Data Vsiualization Using POWER BI.
+- 🤖 I’m currently working on projects related to Python, SQL, Excel, EDA, Statistical analysis and Data Vsiualization Using POWER BI.
 - 📫 How to reach me: http://www.linkedin.com/in/ishika-bansal-9599a9191/
 
 <!---
